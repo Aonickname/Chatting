@@ -13,6 +13,9 @@ int main(){
 <<<<<<< Updated upstream
     printf("Commit test");
 
+
+    printf("민재티비");
+
 =======
     
 >>>>>>> Stashed changes
