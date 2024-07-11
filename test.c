@@ -10,6 +10,7 @@ int main(){
     printf("병장 박세빈 근무 중 이상 무");
     printf("병장 김민재 근무 중 이상 무");
     
+    printf("Commit test");
 
     return 0;
 }
